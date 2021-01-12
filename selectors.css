@@ -1,0 +1,17 @@
+em{
+    color:blue
+}
+
+p em{
+    color:black
+}
+
+article h1{
+    color:lime;
+}
+blockquote + p{
+    color:white
+}
+h1 ~ p{
+    background-color: orchid;
+}
